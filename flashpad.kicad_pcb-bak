@@ -1676,7 +1676,7 @@
     (descr "Through hole straight pin header, 2x05, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x05 2.54mm double row")
     (path /60B58B23)
-    (fp_text reference J1 (at -2.3876 5.0292 180) (layer F.SilkS)
+    (fp_text reference AVR (at -2.3876 5.0292 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value AVR-ISP-10 (at 1.27 12.49 90) (layer F.Fab)
