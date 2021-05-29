@@ -1,4 +1,4 @@
-19125305880235495
+19120476637005466
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83181,28 +83181,7 @@ varistor SIOV
 2
 2
 custom_parts
-DIP_Socket-28_flipped
-3M 28-pin zero insertion force socket, through-hole, row spacing 10.16 mm (400 mils), http://multimedia.3m.com/mws/media/494546O/3mtm-dip-sockets-100-2-54-mm-ts0365.pdf
-THT DIP DIL ZIF 10.16mm 400mil Socket
-0
-28
-28
-custom_parts
-USB_Mini
-
-
-0
-7
-6
-custom_parts
 elmo
-
-
-0
-0
-0
-custom_parts
-oshw
 
 
 0

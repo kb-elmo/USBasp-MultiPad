@@ -47,10 +47,10 @@ F 3 "~" H 1500 5050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C10
+L Device:C_Small C6
 U 1 1 5EE9A052
 P 1350 5300
-F 0 "C10" H 1150 5350 50  0000 L CNN
+F 0 "C6" H 1150 5350 50  0000 L CNN
 F 1 "22p" H 1100 5250 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 1350 5300 50  0001 C CNN
 F 3 "~" H 1350 5300 50  0001 C CNN
@@ -58,10 +58,10 @@ F 3 "~" H 1350 5300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C11
+L Device:C_Small C7
 U 1 1 5EE9A831
 P 1650 5300
-F 0 "C11" H 1742 5346 50  0000 L CNN
+F 0 "C7" H 1742 5346 50  0000 L CNN
 F 1 "22p" H 1742 5255 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 1650 5300 50  0001 C CNN
 F 3 "~" H 1650 5300 50  0001 C CNN
@@ -69,10 +69,10 @@ F 3 "~" H 1650 5300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:CP1_Small C3
+L Device:CP1_Small C1
 U 1 1 5EE9B7B5
 P 3000 7150
-F 0 "C3" H 2800 7200 50  0000 L CNN
+F 0 "C1" H 2800 7200 50  0000 L CNN
 F 1 "4.7u" H 2750 7100 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D4.0mm_P2.00mm" H 3000 7150 50  0001 C CNN
 F 3 "~" H 3000 7150 50  0001 C CNN
@@ -181,10 +181,10 @@ D+
 Text GLabel 2900 1500 2    50   Input ~ 0
 D-
 $Comp
-L Device:R R6
+L Device:R R3
 U 1 1 5EEC1ED5
 P 2750 1400
-F 0 "R6" V 2850 1450 50  0000 R CNN
+F 0 "R3" V 2850 1450 50  0000 R CNN
 F 1 "68R" V 2750 1500 50  0000 R CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2680 1400 50  0001 C CNN
 F 3 "~" H 2750 1400 50  0001 C CNN
@@ -192,10 +192,10 @@ F 3 "~" H 2750 1400 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:R R5
+L Device:R R2
 U 1 1 5EEC3D5B
 P 2350 1200
-F 0 "R5" V 2450 1250 50  0000 R CNN
+F 0 "R2" V 2450 1250 50  0000 R CNN
 F 1 "1.5k" V 2350 1300 50  0000 R CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2280 1200 50  0001 C CNN
 F 3 "~" H 2350 1200 50  0001 C CNN
@@ -250,10 +250,10 @@ Connection ~ 2200 1200
 Wire Wire Line
 	1600 1400 2250 1400
 $Comp
-L Device:R R7
+L Device:R R4
 U 1 1 5EECA7F9
 P 2750 1500
-F 0 "R7" V 2650 1550 50  0000 R CNN
+F 0 "R4" V 2650 1550 50  0000 R CNN
 F 1 "68R" V 2750 1600 50  0000 R CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 2680 1500 50  0001 C CNN
 F 3 "~" H 2750 1500 50  0001 C CNN
@@ -362,10 +362,10 @@ F 3 "~" H 1750 3350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R9
+L Device:R R6
 U 1 1 609373FA
 P 1450 3350
-F 0 "R9" V 1550 3400 50  0000 R CNN
+F 0 "R6" V 1550 3400 50  0000 R CNN
 F 1 "1.5K" V 1450 3450 50  0000 R CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1380 3350 50  0001 C CNN
 F 3 "~" H 1450 3350 50  0001 C CNN
@@ -416,10 +416,10 @@ F 3 "~" H 1500 6350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C1
+L Device:C_Small C4
 U 1 1 6093F86D
 P 1350 6600
-F 0 "C1" H 1150 6650 50  0000 L CNN
+F 0 "C4" H 1150 6650 50  0000 L CNN
 F 1 "22p" H 1100 6550 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 1350 6600 50  0001 C CNN
 F 3 "~" H 1350 6600 50  0001 C CNN
@@ -427,10 +427,10 @@ F 3 "~" H 1350 6600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C2
+L Device:C_Small C5
 U 1 1 6093F877
 P 1650 6600
-F 0 "C2" H 1742 6646 50  0000 L CNN
+F 0 "C5" H 1742 6646 50  0000 L CNN
 F 1 "22p" H 1742 6555 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm" H 1650 6600 50  0001 C CNN
 F 3 "~" H 1650 6600 50  0001 C CNN
@@ -500,10 +500,10 @@ D+
 Text GLabel 4550 4750 2    50   Input ~ 0
 D+
 $Comp
-L Device:C_Small C8
+L Device:C_Small C2
 U 1 1 6094C747
 P 3450 7150
-F 0 "C8" H 3542 7196 50  0000 L CNN
+F 0 "C2" H 3542 7196 50  0000 L CNN
 F 1 "100n" H 3542 7105 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm" H 3450 7150 50  0001 C CNN
 F 3 "~" H 3450 7150 50  0001 C CNN
@@ -511,10 +511,10 @@ F 3 "~" H 3450 7150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C_Small C9
+L Device:C_Small C3
 U 1 1 6094F111
 P 3800 7150
-F 0 "C9" H 3892 7196 50  0000 L CNN
+F 0 "C3" H 3892 7196 50  0000 L CNN
 F 1 "100n" H 3892 7105 50  0000 L CNN
 F 2 "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm" H 3800 7150 50  0001 C CNN
 F 3 "~" H 3800 7150 50  0001 C CNN
@@ -524,19 +524,17 @@ $EndComp
 $Comp
 L Device:Jumper JP1
 U 1 1 6094F55F
-P 5450 3350
-F 0 "JP1" H 5450 3614 50  0000 C CNN
-F 1 "SelfProg" H 5450 3523 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 5450 3350 50  0001 C CNN
-F 3 "~" H 5450 3350 50  0001 C CNN
-	1    5450 3350
-	1    0    0    -1  
+P 3200 2700
+F 0 "JP1" H 3200 2964 50  0000 C CNN
+F 1 "SelfProg" H 3200 2873 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 3200 2700 50  0001 C CNN
+F 3 "~" H 3200 2700 50  0001 C CNN
+	1    3200 2700
+	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	4550 3350 4850 3350
-Text GLabel 3200 3000 1    50   Input ~ 0
+Text GLabel 3200 2400 1    50   Input ~ 0
 RESET
-Text GLabel 5750 3350 2    50   Input ~ 0
+Text GLabel 5000 3350 2    50   Input ~ 0
 RESET
 $Comp
 L power:+5V #PWR02
@@ -569,54 +567,11 @@ Wire Wire Line
 	3200 3150 3350 3150
 Wire Wire Line
 	2650 3150 2800 3150
-Text GLabel 5750 3450 2    50   Input ~ 0
+Text GLabel 5050 3450 2    50   Input ~ 0
 MOSI
-$Comp
-L Device:R R2
-U 1 1 60969135
-P 5000 3350
-F 0 "R2" V 5100 3400 50  0000 R CNN
-F 1 "270r" V 5000 3450 50  0000 R CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4930 3350 50  0001 C CNN
-F 3 "~" H 5000 3350 50  0001 C CNN
-	1    5000 3350
-	0    -1   -1   0   
-$EndComp
-$Comp
-L Device:R R3
-U 1 1 60969BB0
-P 4800 3450
-F 0 "R3" V 4900 3500 50  0000 R CNN
-F 1 "270r" V 4800 3550 50  0000 R CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4730 3450 50  0001 C CNN
-F 3 "~" H 4800 3450 50  0001 C CNN
-	1    4800 3450
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	4550 3450 4650 3450
-Wire Wire Line
-	4950 3450 5750 3450
-$Comp
-L Device:R R4
-U 1 1 6097035F
-P 5000 3650
-F 0 "R4" V 5100 3700 50  0000 R CNN
-F 1 "270r" V 5000 3750 50  0000 R CNN
-F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 4930 3650 50  0001 C CNN
-F 3 "~" H 5000 3650 50  0001 C CNN
-	1    5000 3650
-	0    -1   -1   0   
-$EndComp
-Text GLabel 5750 3550 2    50   Input ~ 0
+Text GLabel 5050 3550 2    50   Input ~ 0
 MISO
-Wire Wire Line
-	4550 3650 4850 3650
-Wire Wire Line
-	4550 3550 5750 3550
-Wire Wire Line
-	5150 3650 5750 3650
-Text GLabel 5750 3650 2    50   Input ~ 0
+Text GLabel 5050 3650 2    50   Input ~ 0
 SCK
 Text GLabel 8600 3200 2    50   Input ~ 0
 XTAL2_2
@@ -664,10 +619,10 @@ F 3 "~" H 1750 3950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R10
+L Device:R R7
 U 1 1 60B1D103
 P 1450 3950
-F 0 "R10" V 1550 4000 50  0000 R CNN
+F 0 "R7" V 1550 4000 50  0000 R CNN
 F 1 "1.5K" V 1450 4050 50  0000 R CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 1380 3950 50  0001 C CNN
 F 3 "~" H 1450 3950 50  0001 C CNN
@@ -749,4 +704,40 @@ F 3 " ~" H 3325 1150 50  0001 C CNN
 	1    4600 1700
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	4550 3350 5000 3350
+Wire Wire Line
+	4550 3450 5050 3450
+Wire Wire Line
+	4550 3550 5050 3550
+Wire Wire Line
+	4550 3650 5050 3650
+$Comp
+L Device:R R5
+U 1 1 60B3D36B
+P 5500 2550
+F 0 "R5" V 5600 2600 50  0000 R CNN
+F 1 "10k" V 5500 2650 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" V 5430 2550 50  0001 C CNN
+F 3 "~" H 5500 2550 50  0001 C CNN
+	1    5500 2550
+	0    1    1    0   
+$EndComp
+$Comp
+L power:+5V #PWR0104
+U 1 1 60B3DBF3
+P 5150 2550
+F 0 "#PWR0104" H 5150 2400 50  0001 C CNN
+F 1 "+5V" H 5165 2723 50  0000 C CNN
+F 2 "" H 5150 2550 50  0001 C CNN
+F 3 "" H 5150 2550 50  0001 C CNN
+	1    5150 2550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 2550 5150 2550
+Wire Wire Line
+	5800 2550 5650 2550
+Text GLabel 5800 2550 2    50   Input ~ 0
+RESET
 $EndSCHEMATC
