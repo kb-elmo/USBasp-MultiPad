@@ -4,6 +4,8 @@
 
 ### USBasp flasher for Atmega32a and Atmega328p
 
+<img src="https://i.imgur.com/YPClCyn.jpg" alt="photo" width="800"/>
+
 ### Partslist
 Most of the parts in this list are just examples and they can be replaced with any component with the same specs.  
 They don't have to be from any specific manufacturer or brand to work on this board.
