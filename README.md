@@ -15,7 +15,7 @@ They don't have to be from any specific manufacturer or brand to work on this bo
 |1|ATmega8-16pu 28-pin DIP|U1|[Atmega8-16pu](https://octopart.com/atmega8-16pu-microchip-77760540)|
 |1|28 pin DIP socket (optional but highly recommended)|U1|[TE Connectivity 1-2199298-9](https://octopart.com/1-2199298-9-te+connectivity-39188588)|
 |1|2x5 pin header 2.54mm (optional)|AVR|[Würth 61201021621](https://octopart.com/61201021621-w%C3%BCrth+elektronik-8917783)|
-|1|USB Type-A receptacle||[Molex 67068-8000](https://octopart.com/67068-8000-molex-314304)|
+|1|USB Type-B receptacle|USB1|[Molex 67068-8000](https://octopart.com/67068-8000-molex-314304)|
 |1|500 mA polyfuse|F1|[Bourns MF-R050](https://octopart.com/mf-r050-bourns-19418)|
 |1|12 MHz quarz crystal|X2|[CTS ATS160](https://octopart.com/ats160-cts+components-315830)|
 |1|16 MHz quarz crystal|X1|[CTS ATS120](https://octopart.com/ats120-cts+components-315826)|
