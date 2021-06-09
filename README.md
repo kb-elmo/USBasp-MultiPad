@@ -6,8 +6,6 @@
 
 <img src="front.png" alt="render" width="350"/><img src="back.png" alt="render" width="350"/>
 
-**THIS HAS NOT BEEN FULLY TESTED YET! USE AT YOUR OWN RISK**
-
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
