@@ -17,8 +17,8 @@ They don't have to be from any specific manufacturer or brand to work on this bo
 |1|2x5 pin header 2.54mm (optional)|AVR|[Würth 61201021621](https://octopart.com/61201021621-w%C3%BCrth+elektronik-8917783)|
 |1|USB Type-B receptacle|USB1|[Molex 67068-8000](https://octopart.com/67068-8000-molex-314304)|
 |1|500 mA polyfuse|F1|[Bourns MF-R050](https://octopart.com/mf-r050-bourns-19418)|
-|1|12 MHz quarz crystal|X2|[CTS ATS160](https://octopart.com/ats160-cts+components-315830)|
-|1|16 MHz quarz crystal|X1|[CTS ATS120](https://octopart.com/ats120-cts+components-315826)|
+|1|12 MHz quarz crystal|X1|[CTS ATS120](https://octopart.com/ats120-cts+components-315826)|
+|1|16 MHz quarz crystal|X2|[CTS ATS160](https://octopart.com/ats160-cts+components-315830)|
 |1|4.7 uF electrolytic capacitor|C1|[Panasonic ECA-1HM4R7I](https://octopart.com/eca-1hm4r7i-panasonic-39478610)|
 |2|100 nF ceramic disk capacitor|C2, C3|[Kemet C315C104M5U5TA](https://octopart.com/c315c104m5u5ta-kemet-83288)|
 |4|22 pF ceramic disk capacitor|C4, C5, C6, C7|[Kemet C317C220J1G5TA](https://octopart.com/c317c220j1g5ta-kemet-1747641)|
