@@ -29,8 +29,8 @@ Example: https://www.adafruit.com/product/1764
 |3|1.5 kΩ resistor|R1, R6, R7|[Multicomp MF25 1k5](https://octopart.com/mf25+1k5-multicomp-5372506)|
 |2|5mm LEDs|ACT, PWR|[Vishay TLHG5400](https://octopart.com/tlhg5400-vishay-39403037)|
 |2|3.6 V zener diode (DO-35 BZX55C3V6)|D1, D2|[ON Semiconductor BZX85C3V6](https://octopart.com/bzx85c3v6-on+semiconductor-84409073)|
-|1|40-pin ZIF socket|||
-|1|28-pin ZIF socket|||
+|1|40-pin ZIF socket (15.24mm row spacing)|U2|3M Textool 240-3345 (or equivalent)|
+|1|28-pin ZIF socket (7.62mm row spacing)|U3|3M Textool 228-3341 (or equivalent)|
 
 ### PCB preview
 
