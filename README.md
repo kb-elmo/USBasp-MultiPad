@@ -8,10 +8,6 @@
 Most of the parts in this list are just examples and they can be replaced with any component with the same specs.  
 They don't have to be from any specific manufacturer or brand to work on this board.
 
-The USB breakout PCB/Daughterboard is NOT included in this repo. You will have to find one yourself.  
-Pretty much any kind of breakout board that has usable VCC, GND, D+ and D- pins should work for this.  
-Example: https://www.adafruit.com/product/1764
-
 |Count|Part|Designator|Octopart URL|
 |-|-|-|-|
 |1|ATmega8-16pu 28-pin DIP|U1|[Atmega8-16pu](https://octopart.com/atmega8-16pu-microchip-77760540)|
